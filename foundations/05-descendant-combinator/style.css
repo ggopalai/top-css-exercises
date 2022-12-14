@@ -1,0 +1,21 @@
+/* Using class selectors */
+.container .text {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;    
+}
+
+/* Using type selectors */
+div p {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 20px;    
+}
+
+/* ! Class selectors have more preference over type selectors */
+/* 
+div .text
+.container p - will also work 
+*/
