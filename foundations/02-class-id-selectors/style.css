@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+.para {
+    background-color: #eea7a7;
+    font-size: 20px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 32px;
+}
+
+#num4 {
+    background-color: rgb(124, 234, 124);
+    font-weight: bold;
+}
+
+#odd-para {
+    font-size: 32px;
+}
